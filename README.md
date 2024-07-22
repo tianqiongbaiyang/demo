@@ -5,7 +5,7 @@ swoole赛事图文直播学习笔记
 https://note.youdao.com/s/7hlkroOJ
 
 环境：
-swoole5.0+ThinkPHP6
+swoole5.0+ThinkPHP6+PHP8.3.6
 
 参考：
 
